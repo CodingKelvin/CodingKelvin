@@ -1,5 +1,5 @@
 - 👋 CodingKelvin here!
-- 👀 I’m interested in Embedded Systems...
+- 👀 I’m interested in DevOps Engineering...
 - 🌱 I’m currently learning ...C programming 
 
 <!---
